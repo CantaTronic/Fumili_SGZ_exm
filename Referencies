@@ -1,0 +1,9 @@
+double chi2Tracks[2],Y_Out;
+int kin_flag,tfsim_mode;;
+ int  SingleTrackChannel,TwoTrackChannel,NFail,nc_Out,Ntotal,NAfterKinFit,NFailTracing;
+ TH1D * MX2_Failed[2];
+ int Fig_Out[20][4], Fig_Count[20],Qty_Out,ndf;
+double dd_Fail[2],chi2_Out;
+   double *psis_Out ;
+ double Pbeam,mtarget,Ebeam;	
+  double MissingMass,Track_Mass[2];	
